@@ -8,6 +8,7 @@ Slides and sample code on the training NodeJS + React, Juva, Spring 2026
 ## On the Internet:
 - Homepage Node.js: https://nodejs.org/en
 - Homepage React: https://react.dev/
-- ...
+- Cheat sheet on HTTP Status Codes: https://serpwatch.io/blog/http-status-codes-cheat-sheet-pdf/
+
 
 Questions? Email me at info@kassenaar.com - cheers, Peter.
